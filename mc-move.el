@@ -1,4 +1,4 @@
-;;; mc-move.el --- Mcedit alike word movements for Emacs -*- lexical-binding: t; -*-
+;;; mc-move.el --- Mcedit alike word movements -*- lexical-binding: t; -*-
 
 ;; Keywords: tools
 
@@ -7,6 +7,7 @@
 ;; Author: Victor Makarov <vitja.makarov@gmail.com>
 ;; URL: https://github.com/vitek/mc-move.el
 ;; Version: 0.2
+;; Package-Requires: ((emacs "24.1"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
