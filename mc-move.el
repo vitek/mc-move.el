@@ -5,7 +5,7 @@
 ;; Copyright (C) 2009-2020 Victor Makarov
 
 ;; Author: Victor Makarov <vitja.makarov@gmail.com>
-;; URL: https://github.com/vitek/configs/tree/master/emacs/site-lisp/mc-move.el
+;; URL: https://github.com/vitek/mc-move.el
 ;; Version: 0.2
 
 ;; This program is free software; you can redistribute it and/or modify
